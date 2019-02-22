@@ -4,8 +4,7 @@ class index extends Component {
     render() {
         return (
             <div>
-                Register
-
+                Rveiu24h3n4kj324n2k
             </div>
         );
     }
